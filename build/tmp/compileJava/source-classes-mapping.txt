@@ -8,13 +8,15 @@ mario/Main.java
  mario.Main
 buggyEngine/Scene.java
  buggyEngine.Scene
-buggyEngine/Window.java
- buggyEngine.Window
-buggyEngine/LevelEditorScene.java
- buggyEngine.LevelEditorScene
 buggyEngine/LevelScene.java
  buggyEngine.LevelScene
 buggyEngine/Camera.java
  buggyEngine.Camera
 renderer/Shader.java
  renderer.Shader
+renderer/Texture.java
+ renderer.Texture
+buggyEngine/Window.java
+ buggyEngine.Window
+buggyEngine/LevelEditorScene.java
+ buggyEngine.LevelEditorScene
